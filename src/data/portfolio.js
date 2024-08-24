@@ -2,7 +2,7 @@ import devlogsc from '../assets/devlogsc.png';
 import travelsc from '../assets/sdhacksc.png';
 import sentimentsc from '../assets/sentimentsc.png';
 import urlsc from '../assets/5footsc.png';
-import dogsc from '../assets/dogwebsc.png';
+import dogsc from '../assets/dogwebsc.png'; //a
 export default [
     {
         title: 'Developer Log',
