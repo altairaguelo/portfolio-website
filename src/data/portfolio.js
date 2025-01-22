@@ -2,8 +2,15 @@ import devlogsc from '../assets/devlogsc.png';
 import travelsc from '../assets/sdhacksc.png';
 import sentimentsc from '../assets/sentimentsc.png';
 import urlsc from '../assets/5footsc.png';
-import dogsc from '../assets/dogwebsc.png'; //a
+import dogsc from '../assets/dogwebsc.png';
+import chatBotsc from '../assets/247TeachChatbot.png';
 export default [
+    {
+        title: 'AI/Live Support Chatbot',
+        imgUrl: chatBotsc,
+        stack: ['HTML', 'CSS', 'JavaScript', 'ChatGPT API'],
+        link: 'https://247teach.org/'
+    },
     {
         title: 'Developer Log',
         imgUrl: devlogsc,
