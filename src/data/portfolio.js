@@ -3,7 +3,7 @@ import travelsc from '../assets/sdhacksc.png';
 import sentimentsc from '../assets/sentimentsc.png';
 import urlsc from '../assets/5footsc.png';
 import dogsc from '../assets/dogwebsc.png';
-import chatBotsc from '../assets/247TeachChatbot.png';
+import chatBotsc from '../assets/chatbotsc.png';
 export default [
     {
         title: 'AI/Live Support Chatbot',
