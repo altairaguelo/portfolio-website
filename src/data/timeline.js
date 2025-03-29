@@ -11,15 +11,6 @@ export default [
     },
     {
         year: 'Today',
-        title: 'Web Design and Development Superstar',
-        duration: '3 months',
-        details: `24/7 Teach is an online education program geared towards education
-         through tech and experiential learning. Currently, I am a front end dev working 
-         in a team on an AI chatbot that helps users navigate our website and
-         find educational opportunities more efficiently.`,
-    },
-    {
-        year: 'Today',
         title: 'ACM Social Director',
         duration: '1 year',
         details: `ACM (Association for Computing Machinery) is UCSD's biggest pre-professional 
@@ -27,7 +18,15 @@ export default [
         members have a safe and fun space to build connection and commmunity in a CS space.`,
 
     },
-    
+    {
+        year: '2024 (June - December)',
+        title: 'Web Design and Development Superstar',
+        duration: '6 months',
+        details: `24/7 Teach is an online education program geared towards education
+         through tech and experiential learning. As a front end dev, I worked 
+         in a team to implement an AI/Live Support Chatbot using HTML/CSS/Javascript/ChatGPT 
+         API that assists users in exploring the company site to find personalized learning programs.`,
+    },
     {
         year: '2021 - 2022',
         title: 'Computer Science Outreach Advocate',
