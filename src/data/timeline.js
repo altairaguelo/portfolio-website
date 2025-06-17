@@ -6,7 +6,7 @@ export default [
         details: `Since I was a kid, computers have always interested me, and
         I've done everything I could to learn how they work. Now, pursuing a bachelor's
         degree in Computer Science, I continue to explore the endless boundaries of 
-        technology. Currently, I am passionate in UX/UI and front-end design, data science, and AI but would also 
+        technology. Currently, I am passionate in UX/UI and front-end design, data science, and AI, but would also 
         like to explore game development.`
     },
     {
