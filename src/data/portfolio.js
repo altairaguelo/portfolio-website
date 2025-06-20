@@ -17,7 +17,7 @@ export default [
     {
         title: 'Tennis Serve Data Analysis',
         imgUrl: tennissc,
-        stack: ['Jupyter Notebook', 'Pandas', 'Seaborn', 'Matplotllib', 'scikit-learn'],
+        stack: ['Jupyter Notebook', 'Pandas', 'Seaborn', 'Matplotlib', 'scikit-learn'],
         link: 'https://github.com/altairaguelo/tennis_serve_data_analysis/blob/master/FinalProject_Group053_SP25.ipynb'
     },
     {
