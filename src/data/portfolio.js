@@ -6,6 +6,7 @@ import dogsc from '../assets/dogwebsc.png';
 import chatBotsc from '../assets/chatbotsc.png';
 import tennissc from '../assets/tennis_analysis_sc.png';
 import AIgif from '../assets/blackjackAIgif.gif';
+import morseCodessc from '../assets/MorseCodes.png';
 export default [
     {
         title: 'AI Projects: Search and Reasoning',
@@ -54,5 +55,11 @@ export default [
        imgUrl: dogsc,
        stack: ['HTML', 'CSS'],
        link: 'https://alaguelo.github.io/dog-website/',
+    },
+    {
+        title: 'Morse Codes Club Website',
+        imgUrl: morseCodessc,
+        stack: ['Wix'],
+        link: 'https://morsecodesclub.wixsite.com/morsecodesclub',
     },
 ]
