@@ -25,7 +25,9 @@ export default [
         details: `24/7 Teach is an online education program geared towards education
          through tech and experiential learning. As a front end dev, I worked 
          in a team to implement an AI/Live Support Chatbot using HTML/CSS/Javascript/ChatGPT 
-         API that assists users in exploring the company site to find personalized learning programs.`,
+         API that assists users in exploring the company site to find personalized learning programs. I also 
+         assisted the backend lead with refining the GPT API Schema to ensure chats stayed appropriate and 
+         aligned with company objectives.`,
     },
     {
         year: '2021 - 2022',
