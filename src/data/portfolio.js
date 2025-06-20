@@ -4,8 +4,15 @@ import sentimentsc from '../assets/sentimentsc.png';
 import urlsc from '../assets/5footsc.png';
 import dogsc from '../assets/dogwebsc.png';
 import chatBotsc from '../assets/chatbotsc.png';
-import tennissc from '../assets/tennis_analysis_sc.png'
+import tennissc from '../assets/tennis_analysis_sc.png';
+import AIgif from '../assets/blackjackAIgif.gif';
 export default [
+    {
+        title: 'AI Projects: Search and Reasoning',
+        imgUrl: AIgif,
+        stack: ['Python'],
+        link: 'https://altairaguelo.github.io/portfolio-website/AIProjects/index.html'
+    },
     {
         title: 'Tennis Serve Data Analysis',
         imgUrl: tennissc,
