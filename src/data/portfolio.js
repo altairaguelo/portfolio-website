@@ -7,7 +7,14 @@ import chatBotsc from '../assets/chatbotsc.png';
 import tennissc from '../assets/tennis_analysis_sc.png';
 import AIgif from '../assets/blackjackAIgif.gif';
 import morseCodessc from '../assets/MorseCodes.png';
+import bionicsc from '../assets/bionic-textify.png';
 export default [
+    {
+        title: 'Bionic-Textify',
+        imgUrl: bionicsc,
+        stack: ['ReactJS', 'TailwindCSS', 'Firebase (Production DB)', 'Node/Express (Development DB)'], 
+        link: 'https://bionic-textify.onrender.com/'
+    },
     {
         title: 'AI Projects: Search and Reasoning',
         imgUrl: AIgif,

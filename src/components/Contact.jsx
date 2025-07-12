@@ -38,7 +38,7 @@ function Contact() {
                         px-8 py-3 w-max text-base
                         font-medium rounded-md text-white
                         bg-gradient-to-r from-yellow-500
-                        to-pink-500 drop-shadow-md">
+                        to-pink-500 drop-shadow-md hover:scale-105">
                             Work With Me
                         </button>
                 </form>
