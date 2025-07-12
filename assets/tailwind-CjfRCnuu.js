@@ -47,4 +47,4 @@ Error generating stack: `+o.message+`
                         px-8 py-3 w-max text-base
                         font-medium rounded-md text-white
                         bg-gradient-to-r from-yellow-500
-                        to-pink-500 drop-shadow-md`,children:"Work With Me"})]})})})}function Md(){return Pe.jsx("div",{className:"py-5 text-center",children:Pe.jsxs("p",{className:"text-sm mt-2 opacity-50",children:["© ",new Date().getFullYear()," Altair Aguelo. All rights reserved."]})})}export{Od as C,Md as F,Rd as R,Ld as T,Iu as c,Pe as j,Vo as r};
+                        to-pink-500 drop-shadow-md hover:scale-105`,children:"Work With Me"})]})})})}function Md(){return Pe.jsx("div",{className:"py-5 text-center",children:Pe.jsxs("p",{className:"text-sm mt-2 opacity-50",children:["© ",new Date().getFullYear()," Altair Aguelo. All rights reserved."]})})}export{Od as C,Md as F,Rd as R,Ld as T,Iu as c,Pe as j,Vo as r};
