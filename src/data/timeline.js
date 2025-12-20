@@ -6,8 +6,18 @@ export default [
         details: `Since I was a kid, computers have always interested me, and
         I've done everything I could to learn how they work. Now, pursuing a bachelor's
         degree in Computer Science, I continue to explore the endless boundaries of 
-        technology. Currently, I am passionate in UX/UI and front-end design, data science, and AI, but would also 
-        like to explore game development.`
+        technology. Currently, I am passionate in UX/UI and front-end design, data science/ML/AI, and also game development.`
+    },
+    {
+        year: 'Today',
+        title: 'Software Engineering Intern',
+        duration: '4 months',
+        details: `Opportunity Knocks is a tech startup that focuses on providing simple and efficient
+        matching opportunities between students and companies. Our matching system lets users easily
+        and directly connect, reducing the stress of filling out endless applications. As a software engineering
+        intern, I have helped contribute to connecting over 5000 students with internship opportunities/companies, 
+        leveraging a modern tech stack including React/TypeScript, Vite, Supabase, and PostgreSQL. Furthermore,
+        I have rapidly build and deployed UI features that enhance the user experience of our platform.`,
     },
     {
         year: 'Today',

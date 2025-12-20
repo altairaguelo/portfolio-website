@@ -8,7 +8,28 @@ import tennissc from '../assets/tennis_analysis_sc.png';
 import AIgif from '../assets/blackjackAIgif.gif';
 import morseCodessc from '../assets/MorseCodes.png';
 import bionicsc from '../assets/bionic-textify.png';
+import oksc from '../assets/ok_sc.png';
+import twitchsc from '../assets/twitch_atlas_sc.png';
+import habitGamesc from '../assets/habit_game_sc.png';
 export default [
+    {
+        title: 'Opportunity Knocks',
+        imgUrl: oksc,
+        stack: ['React Typescript', 'TailwindCSS', 'Supabase'], 
+        link: 'https://opportunityknockshq.com/'
+    },
+    {
+        title: 'Twitch Streamer Recommendation Model',
+        imgUrl: twitchsc,
+        stack: ['Python', 'Pandas', 'Scikit-learn', 'Numpy', 'Jupyter Notebook'], 
+        link: 'https://github.com/alaguelo/CSE158_assignment2/blob/main/README.md'
+    },
+    {
+        title: 'Carbon Footprint Habit Tracker/Idle Growth Game',
+        imgUrl: habitGamesc,
+        stack: ['Construct3', 'Figma', 'Piskel'], 
+        link: 'https://alaguelo.itch.io/planetflip-habit-trackeridle-growth'
+    },
     {
         title: 'Bionic-Textify',
         imgUrl: bionicsc,
